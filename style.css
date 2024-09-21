@@ -1,0 +1,68 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: black;
+    color: #188dbf;
+    text-align: justify;
+  }
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 36px;
+    color: #188dbf;
+    background-color: transparent;
+    text-align: center;
+   
+}
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    color: #188dbf;
+    background-color: transparent;
+    text-align: left;
+   
+
+}
+
+p {
+    font-size:20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: transparent;
+}
+hr {
+    border-color: #bca74c; 
+}
+a:hover {
+    cursor: pointer; /* Mostrar um cursor de ponteiro ao passar o mouse sobre o link */
+    font-style: italic;
+    font-family: 'Roboto Condensed', sans-serif;
+
+  }
+
+  table, th, td {
+    border:10px solid #5cba46;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+  }
+  ol, ul, li{
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #188dbf;
+    font-weight: lighter;
+    font-variant: left;
+    background-color: transparent;
+    text-align: left;
+    
+
+}
+a:visited {
+    color: #d0b0dd; /* Cor do link após ser visitado */
+  }
+  
+  a:link {
+    color: #0074D9; /* Cor do link antes de ser clicado */
+    text-decoration: none; /* Remove sublinhado padrão */
+  }
+  a:hover {
+    color: #FF4136; /* Cor do link quando o mouse está sobre ele */
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+  }

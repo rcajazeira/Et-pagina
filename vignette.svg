@@ -1,0 +1,29 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>vignette icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="381.04" y1="381.04" x2="1614.93" y2="1614.93" gradientUnits="userSpaceOnUse" id="color-4b9goTv3">
+			<stop offset="0" stop-color="#da8744"/>
+			<stop offset="0.44" stop-color="#da8744" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-ifoWT1Dc">
+			<stop offset="0.15" stop-color="#ffffff"/>
+			<stop offset="0.85" stop-color="#f2f2f2"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-iTDk4LaA">
+			<stop offset="0" stop-color="#12b735"/>
+			<stop offset="0.5" stop-color="#9b9b36"/>
+			<stop offset="1" stop-color="#ce7b37"/>
+		</linearGradient>
+		<linearGradient x1="795.81" y1="0" x2="228.19" y2="1024" gradientUnits="userSpaceOnUse" id="color-k90GYKT1">
+			<stop offset="0" stop-color="#1fc442"/>
+			<stop offset="0.5" stop-color="#aaae4a"/>
+			<stop offset="1" stop-color="#e79451"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-k90GYKT1)"/>
+		<path d="M341.08,603.01c-26.12,-26.12 -41.14,-57.98 -41.14,-91.01c0,-80.75 89.74,-154.5 212.05,-154.5c72.28,0 133.18,25.75 170.92,63.48l163.82,163.82v-274.26c0,-20.85 -8.51,-39.78 -22.23,-53.5l199.49,199.49v369.22c0,109.49 -88.76,198.25 -198.25,198.25h-369.22l-257.05,-257.05c13.72,13.72 32.65,22.23 53.5,22.23h274.26z" fill="url(#color-4b9goTv3)"/>
+		<path d="M846.74,310.55v402.91c0,41.69 -34.04,75.73 -75.73,75.73h-518.02c-41.69,0 -75.73,-34.04 -75.73,-75.73v-402.91c0,-41.69 34.04,-75.73 75.73,-75.73h518.02c41.69,0 75.73,34.04 75.73,75.73zM724.05,512c0,-80.75 -89.74,-154.5 -212.05,-154.5c-122.31,0 -212.05,73.74 -212.05,154.5c0,80.75 89.74,154.5 212.05,154.5c122.31,0 212.05,-73.74 212.05,-154.5z" fill="url(#color-iTDk4LaA)"/>
+		<path d="M828.56,310.55v402.91c0,31.65 -25.9,57.56 -57.56,57.56h-518.02c-31.65,0 -57.56,-25.9 -57.56,-57.56v-402.91c0,-31.65 25.9,-57.56 57.56,-57.56h518.02c31.65,0 57.56,25.9 57.56,57.56zM742.23,512c0,-95.26 -103.02,-172.67 -230.23,-172.67c-127.2,0 -230.23,77.41 -230.23,172.67c0,95.26 103.02,172.67 230.23,172.67c127.2,0 230.23,-77.41 230.23,-172.67z" fill="url(#color-ifoWT1Dc)"/>
+	</g>
+</svg>
