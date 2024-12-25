@@ -76,3 +76,8 @@ hr.menu-links + a + a { /* Estiliza o segundo link 'a' e os subsequentes */
     font-size: 24px;
     margin: 0 10px;
 }
+.menu-link {
+    font-size: 24px; /* Tamanho da fonte desejado */
+    margin: 0 10px; /* Margens horizontais */
+    /* Outros estilos que você queira aplicar, como cor, fonte, etc. */
+}
