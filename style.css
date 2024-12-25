@@ -66,3 +66,13 @@ a:visited {
     color: #FF4136; /* Cor do link quando o mouse está sobre ele */
     text-decoration: underline; /* Sublinhado ao passar o mouse */
   }
+
+hr.menu-links + a { /* Estiliza o primeiro link 'a' após a tag <hr class="menu-links"> */
+    font-size: 24px; /* Aumente o tamanho da fonte para 24px, por exemplo */
+    margin: 0 10px; /* Adicione margens horizontais para espaçamento */
+}
+
+hr.menu-links + a + a { /* Estiliza o segundo link 'a' e os subsequentes */
+    font-size: 24px;
+    margin: 0 10px;
+}
