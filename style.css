@@ -68,16 +68,16 @@ a:visited {
   }
 
 hr.menu-links + a { /* Estiliza o primeiro link 'a' após a tag <hr class="menu-links"> */
-    font-size: 24px; /* Aumente o tamanho da fonte para 24px, por exemplo */
-    margin: 0 10px; /* Adicione margens horizontais para espaçamento */
+    font-size: 30px; /* Aumente o tamanho da fonte para 24px, por exemplo */
+    margin: 0 12px; /* Adicione margens horizontais para espaçamento */
 }
 
 hr.menu-links + a + a { /* Estiliza o segundo link 'a' e os subsequentes */
-    font-size: 24px;
-    margin: 0 10px;
+    font-size: 30px;
+    margin: 0 12px;
 }
 .menu-link {
-    font-size: 24px; /* Tamanho da fonte desejado */
-    margin: 0 10px; /* Margens horizontais */
+    font-size: 30px; /* Tamanho da fonte desejado */
+    margin: 0 12px; /* Margens horizontais */
     /* Outros estilos que você queira aplicar, como cor, fonte, etc. */
 }
